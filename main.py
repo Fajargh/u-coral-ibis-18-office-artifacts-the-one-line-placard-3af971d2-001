@@ -10,7 +10,7 @@ holds exactly the placard and nothing else.
 import os
 
 # The placard. Catalogue date, material and donor sell the joke;
-# the jam-as-omen is the conceit. 172 characters, inside the 180 cap.
+# the jam-as-omen is the conceit. 171 characters, inside the 180 cap.
 PLACARD = (
     "Stapler, c. 1998. Steel and spite. "
     "Ritual instrument for binding one soul to another's paperwork; "
